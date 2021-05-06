@@ -3,10 +3,7 @@ import java.util.Scanner;
 /**
  * File name: AboutMe.Java
  * @author Salih
- * Course: CST8284 OOP 
- * Assignment: Lab-1
  * Date: Friday, January 15, 2021
- * Professor: Leanne Seaward
  * Purpose: To show how to document a java file 
  */
 
